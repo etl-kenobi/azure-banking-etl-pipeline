@@ -1,0 +1,55 @@
+{
+  "name": "BankingIngestionPipeline",
+  "properties": {
+    "activities": [
+      {
+        "name": "CopyCustomersToBronze",
+        "type": "Copy",
+        "inputs": [
+          {
+            "referenceName": "CustomersDataset",
+            "type": "DatasetReference"
+          }
+        ],
+        "outputs": [
+          {
+            "referenceName": "BronzeCustomers",
+            "type": "DatasetReference"
+          }
+        ],
+        "typeProperties": {
+          "source": {
+            "type": "DelimitedTextSource"
+          },
+          "sink": {
+            "type": "AzureBlobSink"
+          }
+        }
+      },
+      {
+        "name": "CopyTransactionsToBronze",
+        "type": "Copy",
+        "inputs": [
+          {
+            "referenceName": "TransactionsDataset",
+            "type": "DatasetReference"
+          }
+        ],
+        "outputs": [
+          {
+            "referenceName": "BronzeTransactions",
+            "type": "DatasetReference"
+          }
+        ],
+        "typeProperties": {
+          "source": {
+            "type": "DelimitedTextSource"
+          },
+          "sink": {
+            "type": "AzureBlobSink"
+          }
+        }
+      }
+    ]
+  }
+}
