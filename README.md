@@ -1,43 +1,61 @@
+# Azure Banking ETL Pipeline 🚀
 
-# 🏦 Azure Banking ETL Pipeline
+This project simulates a real-world banking data pipeline using Azure cloud services and open-source tools. It demonstrates an end-to-end ETL (Extract, Transform, Load) process for ingesting, transforming, and analyzing banking datasets using:
 
-This project demonstrates an end-to-end data migration solution for a hypothetical banking dataset using Azure Data Factory, Azure Synapse Analytics, Delta Lake, and PySpark notebooks.
+- **Azure Data Factory** for orchestrating data pipelines
+- **Azure Data Lake Storage** for raw/staged/processed layers
+- **Azure Databricks / PySpark** for transformations
+- **Azure Synapse SQL Serverless** for querying data lake with SQL
+- **Delta Lake format** for scalable and ACID-compliant storage
 
-## 🚀 Use Case
+---
 
-Migrating on-premise customer and transaction data into an Azure-based Data Lakehouse using a medallion architecture (Bronze → Silver → Gold).
-
-## 🛠 Tech Stack
-
-- Azure Data Factory
-- Azure Synapse Analytics
-- Azure Data Lake Storage Gen2
-- PySpark on Synapse Notebooks
-- Delta Lake
-- SQL Serverless
-
-## 📁 Structure
+## 📁 Folder Structure
 
 ```
 azure-banking-etl-pipeline/
-├── datasets/
-├── notebooks/
-├── adf-pipeline/
-├── synapse-sql/
-├── architecture/
-└── docs/
+├── adf-pipeline/            # ADF JSON definition
+├── architecture/            # Diagrams and design artifacts
+├── datasets/                # Sample input CSVs
+├── notebooks/               # PySpark scripts (Databricks-ready)
+├── synapse-sql/             # SQL views for Synapse Serverless
+├── docs/                    # Walkthroughs and use cases
+└── README.md                # You’re here!
 ```
 
-## 📌 Features
+---
 
-- Ingestion from CSV to Bronze layer
-- Data cleansing and enrichment in Silver
-- Aggregated insights in Gold
-- ADF pipeline orchestration
-- Modular PySpark transformations
-- SQL Serverless views for reporting
+## 🏦 Use Case
 
-## 👨‍💻 Author
+A fictional bank needs to modernize its legacy data pipeline. This solution:
+- Migrates customer and transaction data to Azure
+- Cleans & enriches records using PySpark
+- Stores output in Delta format
+- Enables analytics using Synapse SQL views
 
-**Rahul Gurjar**  
-GitHub: [etl-kenobi](https://github.com/etl-kenobi)
+---
+
+## 🛠️ Tools Used
+
+- Azure Data Factory
+- Azure Data Lake Gen2
+- Azure Synapse Analytics (SQL Serverless)
+- Azure Databricks
+- PySpark
+- Delta Lake
+
+---
+
+## 📊 Sample Outputs
+
+- Identify high-value customers
+- Aggregate spend by region
+- Join transactions with customer metadata
+
+---
+
+## 🧠 Learning Outcomes
+
+- Hands-on orchestration with ADF
+- Modular PySpark scripts for batch ETL
+- SQL-based reporting on Delta tables
