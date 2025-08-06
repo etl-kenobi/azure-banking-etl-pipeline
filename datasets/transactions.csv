@@ -1,0 +1,1001 @@
+txn_id,customer_id,txn_amount,txn_type,txn_date,merchant,channel
+1,39,445.92,Credit,2025-01-28,"Williams, Huff and Murphy",Online
+2,277,836.85,Credit,2023-10-15,"Wright, Kelly and Palmer",POS
+3,86,409.38,Debit,2025-01-12,Green-Ewing,POS
+4,206,902.93,Credit,2023-08-30,Bond-Hawkins,Mobile
+5,2,985.38,Debit,2024-10-06,Davis Inc,Mobile
+6,147,425.89,Debit,2025-04-21,Martinez Inc,POS
+7,98,300.22,Credit,2025-05-11,Anderson Group,Online
+8,161,61.88,Debit,2024-05-21,"Mccoy, Newman and Aguilar",POS
+9,30,960.98,Credit,2024-02-23,Johnson Inc,POS
+10,36,597.06,Credit,2024-01-06,"Ramos, Anderson and Stein",Mobile
+11,62,941.89,Credit,2025-05-11,Martinez-Dunlap,Online
+12,42,422.13,Debit,2023-09-14,Glass Group,ATM
+13,105,671.38,Debit,2025-05-05,"Foster, Johnson and Vega",POS
+14,136,398.81,Debit,2023-12-18,Lewis-Lopez,Mobile
+15,162,929.37,Credit,2024-03-10,Stephenson-Johnson,Online
+16,235,623.05,Credit,2024-11-28,"Sanchez, Phillips and Jenkins",Online
+17,276,217.09,Debit,2024-10-06,Brown-Ramirez,POS
+18,179,881.46,Credit,2023-11-20,Gonzalez-Wilkerson,ATM
+19,146,161.96,Debit,2024-09-17,Mccoy PLC,Online
+20,284,302.88,Credit,2025-04-14,Mayo Ltd,POS
+21,136,119.85,Credit,2024-05-10,Stephens-Washington,POS
+22,140,285.35,Credit,2025-07-14,"Shaw, Price and White",ATM
+23,105,689.06,Debit,2024-04-09,"Robinson, Huang and Osborne",Mobile
+24,129,905.81,Credit,2023-09-20,Moreno-Wang,Online
+25,217,830.2,Credit,2024-02-02,Garcia Ltd,Online
+26,171,772.26,Debit,2024-02-09,Ferguson-Moody,POS
+27,227,553.92,Debit,2025-02-28,Gallagher and Sons,Online
+28,58,79.87,Credit,2024-10-26,Kelly-Combs,Online
+29,190,584.6,Credit,2025-05-23,Thompson PLC,Mobile
+30,66,46.62,Debit,2024-04-09,"Wolfe, Sloan and Johnson",Online
+31,184,214.03,Credit,2025-01-31,Meza-Elliott,Online
+32,182,781.22,Debit,2024-10-16,Copeland Group,POS
+33,122,865.28,Credit,2024-09-30,Thompson-Johnson,Mobile
+34,13,183.46,Debit,2023-09-18,Guzman Inc,Mobile
+35,128,270.47,Credit,2024-09-17,Smith-Hardin,Mobile
+36,20,859.3,Credit,2024-01-09,Peterson and Sons,POS
+37,236,352.91,Credit,2025-07-19,Brown-Hernandez,POS
+38,13,661.73,Debit,2025-02-03,Schroeder PLC,ATM
+39,143,865.03,Debit,2025-06-04,Yu-Brooks,ATM
+40,261,402.68,Debit,2025-01-01,Willis-Rogers,Online
+41,60,877.65,Debit,2024-04-12,Daugherty Ltd,POS
+42,298,962.72,Debit,2024-07-10,"Yu, Banks and Thompson",Online
+43,56,598.59,Debit,2024-10-15,"Preston, Austin and Kelly",ATM
+44,224,608.18,Credit,2025-01-03,"Olsen, Gray and Gross",Mobile
+45,296,194.13,Credit,2024-03-21,Thompson Inc,Mobile
+46,1,522.32,Credit,2025-02-01,"Myers, Gamble and Sanford",ATM
+47,221,74.62,Debit,2023-08-31,Guzman PLC,ATM
+48,64,721.16,Debit,2024-01-24,"Cunningham, Zuniga and Taylor",ATM
+49,210,329.55,Debit,2025-03-06,Young LLC,POS
+50,99,423.34,Debit,2023-12-14,"Mcclure, Davis and Fletcher",POS
+51,292,304.45,Credit,2024-12-14,"Tanner, Griffin and Baker",ATM
+52,147,214.13,Debit,2024-02-15,"Jones, Scott and Rodriguez",Mobile
+53,227,444.95,Credit,2023-08-06,Cruz Ltd,Mobile
+54,87,660.56,Debit,2024-06-26,Wilkerson Group,ATM
+55,48,819.33,Credit,2025-06-20,Bell-Bennett,ATM
+56,116,807.53,Credit,2025-05-10,Kramer-Lane,Online
+57,24,248.62,Debit,2025-03-16,"Perez, Hayes and Lloyd",Online
+58,234,417.37,Credit,2023-08-31,Smith-Green,Mobile
+59,254,402.65,Credit,2023-10-26,Peterson Group,Online
+60,55,779.53,Credit,2023-12-08,"Jones, Mcmahon and Spence",POS
+61,266,467.23,Credit,2024-04-24,"Galloway, Barry and Bush",Online
+62,234,137.67,Debit,2024-07-06,"Martin, Preston and Moore",ATM
+63,227,614.59,Debit,2023-10-23,Harris-Lee,Mobile
+64,82,744.94,Debit,2025-01-28,"Bowen, Blair and Baker",Mobile
+65,133,753.02,Debit,2024-03-11,Young-Williams,Mobile
+66,123,278.22,Credit,2024-10-23,"Larsen, Hernandez and Ward",ATM
+67,121,275.36,Debit,2024-07-03,Phillips Ltd,Online
+68,71,155.08,Debit,2024-12-03,"Castillo, Davis and Clark",POS
+69,110,68.91,Debit,2024-12-13,Rowland-Wells,ATM
+70,278,468.59,Credit,2023-11-03,Glover-Ruiz,POS
+71,216,392.53,Credit,2025-07-01,"Baker, May and Hughes",Mobile
+72,245,10.87,Debit,2024-05-20,Wood-Griffin,ATM
+73,200,854.18,Debit,2024-02-26,Marshall-Perez,POS
+74,250,223.32,Debit,2024-03-01,"Brown, Goodwin and Contreras",Mobile
+75,15,391.91,Debit,2023-10-11,"Cooper, Weaver and Arellano",POS
+76,240,919.94,Credit,2024-11-06,Spencer Group,Mobile
+77,289,664.68,Credit,2025-05-02,"Barnes, Nichols and Camacho",Mobile
+78,70,867.52,Credit,2024-08-08,"Keith, Alvarez and Miller",Online
+79,134,382.21,Credit,2025-07-07,"Johnson, Duncan and Black",Mobile
+80,168,340.81,Debit,2024-10-22,"Mcgrath, Hernandez and Avery",ATM
+81,216,256.01,Credit,2024-07-19,Rush and Sons,Mobile
+82,10,750.28,Credit,2024-01-17,Martinez Group,ATM
+83,115,651.89,Credit,2023-10-05,"Graham, Osborn and Burton",Online
+84,127,203.36,Credit,2025-05-14,"Scott, Bartlett and Sloan",POS
+85,123,130.59,Credit,2023-09-27,Hughes Group,POS
+86,239,700.97,Debit,2024-10-07,Gates-Stone,POS
+87,59,778.9,Credit,2025-07-18,Buchanan PLC,ATM
+88,56,580.79,Debit,2024-11-04,"Harrington, Rodriguez and Hernandez",Mobile
+89,204,941.76,Credit,2024-10-19,"Aguilar, Hanna and Garcia",Online
+90,125,106.39,Debit,2023-10-27,"Chan, Floyd and Dillon",Online
+91,290,783.72,Debit,2025-06-19,Humphrey-Baker,Mobile
+92,190,73.61,Debit,2024-12-26,Armstrong-Kennedy,Online
+93,216,823.22,Credit,2023-12-17,Powell-Montgomery,Mobile
+94,186,637.41,Debit,2025-01-15,"Morales, Foster and Koch",POS
+95,223,180.26,Debit,2025-01-23,Williams Group,Mobile
+96,239,438.4,Debit,2025-07-21,Prince-Smith,ATM
+97,126,831.58,Credit,2025-05-01,Collins-Cameron,ATM
+98,231,247.64,Debit,2025-06-02,"Cohen, Compton and Perez",Mobile
+99,173,33.56,Debit,2024-03-26,"Ramos, Petersen and Adams",POS
+100,250,216.06,Debit,2024-06-24,"Brewer, Lopez and Lewis",ATM
+101,144,880.92,Debit,2025-05-06,Figueroa-Malone,Online
+102,265,948.32,Credit,2025-06-09,Nicholson-Robertson,POS
+103,209,491.13,Credit,2023-12-07,Collins PLC,Mobile
+104,252,450.93,Credit,2024-06-14,Deleon PLC,Online
+105,151,225.49,Credit,2025-06-18,"Johnson, Lee and Whitaker",ATM
+106,298,372.18,Debit,2025-05-17,Wright Group,Mobile
+107,282,334.14,Debit,2023-09-14,Bush-Hill,ATM
+108,157,255.15,Credit,2025-05-06,Wagner-Reid,POS
+109,162,123.96,Credit,2023-11-10,"Johnson, Watson and Wheeler",POS
+110,111,739.91,Debit,2023-12-21,Matthews-Bailey,ATM
+111,52,833.47,Debit,2023-12-11,Curry-Barker,POS
+112,185,183.54,Credit,2024-03-14,Hughes and Sons,POS
+113,141,50.29,Credit,2025-05-30,"Chan, Lewis and Walker",ATM
+114,65,639.68,Debit,2024-01-27,"Clark, Pearson and Palmer",Online
+115,7,576.19,Debit,2025-06-07,"Smith, Buck and Holland",Mobile
+116,226,344.0,Credit,2024-11-14,Walker PLC,ATM
+117,245,118.52,Credit,2025-04-22,Marquez-Fletcher,Mobile
+118,252,78.71,Credit,2024-03-06,Woodard-York,POS
+119,77,812.09,Debit,2024-07-27,Robinson-Turner,Online
+120,128,122.86,Debit,2024-09-13,"Sanders, Garcia and Hunt",POS
+121,268,383.48,Debit,2025-01-01,Hoffman-Wheeler,ATM
+122,220,308.85,Credit,2024-03-12,Cohen-Olson,Online
+123,107,627.39,Debit,2024-04-23,Davidson-Hensley,Online
+124,81,243.67,Credit,2024-02-24,"Dawson, Stafford and Evans",POS
+125,2,411.47,Debit,2023-11-30,"Cannon, Yoder and Trujillo",ATM
+126,17,235.32,Debit,2025-04-20,"Powell, Flores and Taylor",Mobile
+127,37,688.95,Debit,2023-08-25,"Jimenez, Phillips and Meadows",POS
+128,218,119.2,Credit,2024-06-15,Doyle-Aguilar,POS
+129,137,827.5,Credit,2024-10-23,Cooper Ltd,Online
+130,85,793.67,Debit,2024-01-25,"Nichols, Glover and Knox",Mobile
+131,64,471.35,Debit,2025-01-08,Romero-Bruce,Mobile
+132,140,502.97,Debit,2025-05-19,"Walter, White and Davis",Mobile
+133,42,600.05,Debit,2023-11-13,"Green, Stokes and Hines",ATM
+134,129,30.74,Credit,2023-12-26,"Lam, Pena and Walker",Online
+135,138,578.37,Credit,2024-01-26,"Savage, Fisher and Eaton",Mobile
+136,266,653.25,Debit,2024-05-20,Richards-Ford,POS
+137,300,438.71,Debit,2023-11-05,Brown-Walters,Online
+138,241,351.22,Debit,2024-10-29,"Jones, Preston and Mason",ATM
+139,54,858.44,Debit,2025-06-09,"James, Evans and Brown",Mobile
+140,254,291.78,Debit,2025-05-30,Taylor and Sons,Online
+141,233,92.62,Debit,2024-04-28,Benitez-Orozco,ATM
+142,60,970.33,Debit,2024-07-26,Stewart Ltd,Online
+143,278,464.67,Credit,2023-12-24,Freeman Ltd,POS
+144,266,364.97,Debit,2023-12-21,Walters-Smith,Mobile
+145,27,207.54,Credit,2024-03-05,Juarez and Sons,ATM
+146,225,881.44,Debit,2024-10-26,Burns Inc,Online
+147,15,973.28,Credit,2023-11-14,"Hamilton, Jordan and Patterson",POS
+148,160,553.08,Debit,2024-08-10,Smith-Ferguson,Online
+149,116,992.3,Credit,2025-02-23,Dodson-Mcclain,Mobile
+150,61,649.47,Credit,2025-03-15,"Lee, Rhodes and Sims",Mobile
+151,150,511.33,Debit,2024-02-15,Steele LLC,Mobile
+152,248,980.34,Credit,2024-04-04,Garcia PLC,Mobile
+153,283,148.92,Credit,2024-11-05,Jackson-Colon,POS
+154,36,279.87,Debit,2024-03-24,Bryant-Meyer,ATM
+155,260,270.84,Credit,2024-09-16,Hamilton-Mcdaniel,ATM
+156,153,838.29,Debit,2023-11-17,Ferrell-Henry,POS
+157,229,540.89,Debit,2025-03-10,Martin Group,ATM
+158,283,764.06,Debit,2023-08-20,Walker and Sons,Mobile
+159,165,870.25,Credit,2024-01-17,"Johnson, Wagner and Martinez",Mobile
+160,120,856.73,Debit,2025-02-08,"Conner, Brooks and Bowman",Online
+161,163,745.98,Debit,2025-03-27,"Dean, Wheeler and Williams",Mobile
+162,78,497.85,Credit,2023-10-28,"Huff, Williams and Wilson",POS
+163,258,965.53,Debit,2024-07-16,Martinez-King,Online
+164,226,104.21,Debit,2025-02-01,Harris Ltd,Online
+165,74,412.93,Credit,2024-12-07,Turner Ltd,Online
+166,241,782.62,Debit,2023-10-23,"Meyer, Dean and Haynes",ATM
+167,204,651.59,Debit,2024-06-26,Hunt PLC,Mobile
+168,163,628.67,Debit,2023-11-05,Wilson-Rodriguez,Online
+169,36,238.6,Debit,2024-01-07,"Gonzalez, Baker and Mills",POS
+170,47,436.8,Credit,2024-01-09,Warner-Phillips,Online
+171,228,170.53,Debit,2023-09-05,"Crawford, Clark and Fitzpatrick",Online
+172,24,327.75,Credit,2024-04-18,Smith Ltd,ATM
+173,184,377.97,Credit,2023-10-14,Conley Ltd,POS
+174,272,414.99,Credit,2024-08-23,Herring PLC,POS
+175,90,83.57,Debit,2023-10-03,"Cummings, Conway and Newman",POS
+176,255,913.26,Credit,2024-07-25,Baker-Williams,POS
+177,237,639.72,Debit,2025-04-28,Sawyer LLC,ATM
+178,5,899.41,Debit,2024-05-11,"Edwards, Rodgers and Davis",ATM
+179,280,162.19,Debit,2025-03-16,Smith and Sons,ATM
+180,154,640.74,Debit,2025-01-02,"Jackson, Howard and Kim",ATM
+181,234,846.08,Credit,2024-11-30,Johns-Davis,Mobile
+182,248,111.12,Debit,2025-04-30,White-Morales,ATM
+183,295,299.39,Debit,2024-07-25,Houston-Vaughn,Online
+184,203,278.11,Credit,2024-08-11,Banks-Robles,Mobile
+185,147,776.86,Credit,2023-11-01,Horton Inc,ATM
+186,113,638.43,Debit,2025-05-22,Garcia PLC,POS
+187,50,903.89,Credit,2024-08-14,"Gregory, White and James",ATM
+188,226,38.2,Debit,2024-05-10,"Johnson, Cohen and Roberson",POS
+189,47,910.08,Debit,2025-06-28,Webb Group,Mobile
+190,90,204.79,Debit,2023-11-01,Alexander-Brown,ATM
+191,85,260.69,Debit,2024-12-26,Smith-Oneill,ATM
+192,174,805.21,Debit,2024-09-16,"Ray, Cunningham and Levine",Online
+193,73,755.38,Credit,2025-01-07,Stone-Watts,Mobile
+194,286,368.95,Debit,2024-11-28,Reynolds Ltd,Online
+195,136,538.89,Debit,2024-02-15,Reed-Rhodes,ATM
+196,135,586.64,Debit,2024-05-30,Combs PLC,Online
+197,120,474.12,Debit,2025-06-28,"Brown, Schneider and Moore",POS
+198,33,637.23,Debit,2025-05-26,Christian-Booth,ATM
+199,210,121.09,Credit,2023-10-03,Flores-Rivera,Online
+200,156,995.95,Credit,2024-03-09,Hunter PLC,Online
+201,121,887.82,Credit,2024-12-17,Powell-Young,Mobile
+202,233,374.16,Debit,2024-07-27,Solis-West,POS
+203,213,656.65,Debit,2025-06-01,West-Wilson,Mobile
+204,144,37.55,Debit,2024-08-26,"Valdez, Garcia and Gutierrez",POS
+205,228,447.47,Credit,2024-10-11,"Smith, Davis and Munoz",ATM
+206,51,981.02,Debit,2024-11-28,"Torres, Romero and Clark",ATM
+207,32,401.15,Credit,2025-01-08,Clements-Cox,Online
+208,233,96.22,Credit,2023-09-17,Richard LLC,Online
+209,26,787.86,Credit,2024-10-14,"Greene, Moran and Cox",POS
+210,290,209.18,Credit,2024-07-22,Davis Ltd,POS
+211,120,331.92,Credit,2024-01-25,Peterson Ltd,Online
+212,142,859.11,Credit,2025-04-18,Kelley-Brooks,POS
+213,277,254.4,Credit,2023-10-27,Prince Group,Online
+214,14,136.14,Debit,2023-11-23,"Newton, Ortiz and King",POS
+215,166,20.7,Debit,2024-01-05,Martinez Group,Online
+216,65,743.01,Credit,2024-01-20,Summers-Lee,Online
+217,244,451.03,Debit,2024-04-24,Sherman Inc,Online
+218,232,506.32,Credit,2025-07-25,"Monroe, Chapman and Barton",ATM
+219,235,645.12,Credit,2024-07-20,Barrett-Blanchard,Online
+220,246,848.06,Debit,2023-11-18,Smith-Fitzgerald,Online
+221,252,713.84,Debit,2024-10-08,Roberson-Webb,Online
+222,42,325.5,Credit,2024-09-03,Holt and Sons,Online
+223,65,278.64,Debit,2025-02-23,Garcia Ltd,Mobile
+224,272,298.42,Debit,2024-11-14,"Andrade, Gordon and Cruz",Online
+225,59,853.53,Credit,2024-11-21,"Farmer, Hill and Stuart",Mobile
+226,232,888.65,Debit,2024-03-21,Ballard-Taylor,ATM
+227,233,401.74,Credit,2024-11-15,"Tanner, Hunt and Cameron",ATM
+228,219,315.96,Debit,2024-10-04,Joseph-Walls,ATM
+229,79,688.39,Debit,2024-12-09,Harris PLC,Online
+230,47,832.61,Credit,2025-02-10,Parks-Morse,Mobile
+231,50,745.87,Debit,2023-11-17,"Santos, Mullen and Gordon",POS
+232,285,64.68,Debit,2025-01-26,"Morris, Wilson and Bell",Online
+233,211,356.83,Debit,2024-08-13,"Duncan, Contreras and Butler",Online
+234,148,602.41,Debit,2025-03-08,"Mitchell, Boone and Stokes",Online
+235,296,509.88,Credit,2024-09-15,Johnson and Sons,Mobile
+236,115,848.04,Debit,2023-09-16,"Brown, Adams and Floyd",ATM
+237,59,763.79,Credit,2024-03-15,"King, Franco and Vaughn",Mobile
+238,288,974.67,Credit,2024-03-22,Molina Inc,ATM
+239,15,184.51,Debit,2024-05-10,Garcia-Parrish,ATM
+240,180,11.08,Credit,2025-03-02,"Hancock, Newton and Hoffman",Mobile
+241,36,146.17,Credit,2024-02-06,"Mueller, Lindsey and Roberts",Online
+242,272,219.06,Debit,2025-01-03,House Group,Mobile
+243,175,161.62,Debit,2024-06-24,"Edwards, Arnold and Smith",ATM
+244,291,598.24,Credit,2024-02-17,Oliver Group,POS
+245,81,755.66,Credit,2025-05-11,Pruitt Ltd,Online
+246,140,445.9,Debit,2025-02-07,"Richardson, Chapman and Rodgers",Mobile
+247,227,417.11,Credit,2024-01-05,"Brandt, Phillips and Thompson",Online
+248,177,432.76,Debit,2025-01-17,Lopez and Sons,Mobile
+249,270,668.8,Credit,2025-02-26,"Wilson, Williams and Ramirez",POS
+250,203,984.52,Credit,2024-02-27,Martin LLC,Online
+251,105,304.91,Credit,2023-08-10,Owens-Pineda,POS
+252,131,293.0,Credit,2023-09-06,Mcfarland PLC,Online
+253,255,748.28,Credit,2023-09-14,"Gilbert, Stanley and Henry",POS
+254,195,534.92,Credit,2024-10-23,"Howard, Bowers and Stewart",ATM
+255,37,400.09,Credit,2024-01-23,Meyer PLC,Mobile
+256,10,462.46,Credit,2023-12-07,Daniels-Powell,ATM
+257,295,432.14,Debit,2024-05-03,Ware Ltd,Mobile
+258,149,119.6,Credit,2024-04-19,Ward-Robinson,ATM
+259,88,802.32,Debit,2025-03-12,"Moreno, Barajas and Colon",ATM
+260,46,439.53,Credit,2024-12-22,Wilson LLC,POS
+261,224,590.93,Credit,2024-07-17,Conway PLC,Mobile
+262,159,747.08,Credit,2025-07-19,"Sanchez, Williams and Blackwell",ATM
+263,87,81.0,Credit,2024-05-28,Cruz PLC,POS
+264,179,354.34,Credit,2025-02-18,Johnson-Black,POS
+265,53,150.71,Credit,2025-03-26,Robertson-Hicks,POS
+266,79,761.41,Credit,2024-08-18,Phillips Ltd,POS
+267,253,466.63,Debit,2024-01-02,Palmer-Vaughan,ATM
+268,162,155.2,Credit,2023-12-14,"Ferguson, Sims and Clark",Mobile
+269,227,633.23,Debit,2024-12-06,Hancock Group,Online
+270,181,509.8,Debit,2025-05-16,Harris Ltd,Mobile
+271,232,42.42,Debit,2025-06-18,"Rowe, Lucas and Case",ATM
+272,40,646.44,Credit,2025-03-08,"Hernandez, Stevens and Rivera",Mobile
+273,237,582.43,Credit,2023-10-12,Brown LLC,Mobile
+274,293,653.58,Debit,2024-10-12,Andrews and Sons,Mobile
+275,257,155.11,Credit,2025-07-13,Russell-Hayes,Mobile
+276,53,811.91,Debit,2024-06-15,Stewart-Price,Online
+277,259,647.9,Credit,2023-11-05,"Smith, Cortez and Brown",POS
+278,225,991.03,Credit,2025-03-07,"Williams, Charles and Howard",ATM
+279,191,918.35,Debit,2024-08-30,Roberts Ltd,Mobile
+280,174,680.5,Credit,2024-03-27,"Miller, Hubbard and Kim",ATM
+281,34,333.04,Debit,2024-06-07,"Johnson, Moore and Robinson",ATM
+282,130,725.11,Credit,2025-03-08,Robles-Atkinson,ATM
+283,42,584.83,Credit,2024-03-22,"Thomas, Byrd and Sloan",ATM
+284,159,967.86,Debit,2025-04-14,"Wong, Bernard and Smith",POS
+285,44,313.03,Debit,2025-06-15,"Thomas, Williams and Armstrong",ATM
+286,66,671.77,Credit,2024-06-07,"Kelley, Miller and Clark",Mobile
+287,261,365.02,Debit,2025-03-03,"Cooper, Gutierrez and Brewer",ATM
+288,93,951.41,Debit,2024-09-07,Martin and Sons,Mobile
+289,99,230.41,Credit,2024-11-27,Lee-White,POS
+290,40,299.31,Credit,2025-04-18,"Phelps, York and Randolph",Online
+291,173,877.01,Credit,2024-10-05,Newman-Jones,Mobile
+292,79,166.44,Credit,2025-01-08,King and Sons,Mobile
+293,23,413.8,Credit,2025-02-19,"Freeman, Rivera and Anderson",Mobile
+294,146,753.63,Debit,2024-12-27,Garcia PLC,POS
+295,274,242.97,Debit,2023-09-29,Stewart Group,POS
+296,189,679.92,Debit,2024-04-17,"Hopkins, Steele and Hernandez",Mobile
+297,145,779.23,Debit,2024-10-19,Aguirre-Benjamin,POS
+298,103,802.25,Credit,2023-12-14,Edwards and Sons,ATM
+299,27,642.97,Debit,2025-02-09,"Davidson, Hill and Ward",Online
+300,265,851.91,Debit,2025-01-14,"Rivera, Castillo and Griffin",Online
+301,83,276.43,Credit,2025-03-29,Tucker-Rodriguez,Mobile
+302,47,946.68,Credit,2024-12-19,"Miller, Ramirez and Serrano",Mobile
+303,179,930.82,Debit,2025-06-28,"Gonzalez, Gross and Sims",Online
+304,203,504.5,Credit,2025-02-21,Mcclain PLC,Mobile
+305,42,378.04,Credit,2024-12-08,Hess PLC,ATM
+306,51,839.98,Debit,2024-06-15,"Lewis, Johnson and Green",POS
+307,71,43.11,Debit,2025-06-30,"Kennedy, Rowe and Diaz",POS
+308,241,451.36,Credit,2024-01-26,"Quinn, Carter and Marshall",Online
+309,10,259.64,Credit,2024-09-05,Sanders PLC,Mobile
+310,57,777.29,Credit,2023-08-14,"Allen, Maynard and Holden",ATM
+311,63,52.51,Debit,2025-01-18,Todd and Sons,Mobile
+312,33,115.3,Debit,2024-07-17,White PLC,Online
+313,264,577.17,Credit,2024-12-30,Fitzgerald Group,ATM
+314,220,6.56,Debit,2025-08-04,Williams-Juarez,POS
+315,293,419.48,Credit,2024-02-02,Baker and Sons,ATM
+316,35,953.64,Credit,2023-09-08,"Clark, Velez and Ward",Mobile
+317,241,48.32,Debit,2024-08-04,Keith-Williams,ATM
+318,130,748.58,Debit,2024-12-21,Garcia-Schmitt,Online
+319,177,244.92,Credit,2024-12-10,Davenport-Baker,ATM
+320,69,49.11,Debit,2024-10-01,"Thompson, Valdez and Diaz",POS
+321,238,980.92,Debit,2024-12-25,Black Group,POS
+322,70,67.79,Debit,2025-07-10,Black LLC,Online
+323,151,205.58,Credit,2025-05-01,Tucker-Olson,Online
+324,162,933.7,Debit,2024-11-17,Shaw and Sons,Mobile
+325,130,41.44,Credit,2024-07-12,Hall PLC,ATM
+326,183,862.83,Credit,2024-12-17,Lewis-Lopez,ATM
+327,140,128.85,Debit,2024-05-13,"Love, Wilson and Hall",Mobile
+328,205,744.59,Debit,2025-04-27,Cortez-Olson,ATM
+329,96,498.72,Debit,2024-08-11,Clark-Martin,ATM
+330,266,270.39,Credit,2025-05-14,Johnson-Williams,Mobile
+331,41,433.45,Credit,2024-10-24,"Martin, Soto and Williams",ATM
+332,165,107.08,Debit,2024-10-23,Brown LLC,ATM
+333,157,448.69,Debit,2025-07-22,Black Group,POS
+334,228,354.79,Credit,2024-11-13,"Walsh, Johns and Luna",ATM
+335,223,278.18,Credit,2025-05-04,Valentine-Robinson,Online
+336,208,366.49,Credit,2024-11-19,Dillon-Jackson,Online
+337,74,849.43,Debit,2025-05-11,Burke-Norton,Online
+338,65,71.9,Debit,2025-05-04,Hanson PLC,ATM
+339,197,949.72,Credit,2024-02-27,Ramsey LLC,POS
+340,231,949.08,Debit,2025-07-22,Carlson-Jones,Mobile
+341,40,576.05,Debit,2024-05-25,Anderson-Smith,Mobile
+342,161,651.31,Credit,2024-09-15,"Cohen, Serrano and Jacobs",Online
+343,14,737.0,Debit,2023-12-21,Valenzuela-Greene,Mobile
+344,288,122.17,Debit,2025-06-17,"Gordon, Wilson and Olson",Mobile
+345,110,996.38,Debit,2023-11-15,"Ryan, Smith and Pace",Mobile
+346,103,127.02,Credit,2025-01-14,"Reynolds, Fisher and Golden",Mobile
+347,89,899.19,Debit,2025-01-28,"Patterson, Mays and Olson",Online
+348,164,669.5,Credit,2025-03-25,Bell-Ballard,ATM
+349,154,852.11,Credit,2025-07-11,"Johnston, Coleman and Scott",ATM
+350,261,228.12,Credit,2025-03-22,Kent Inc,POS
+351,122,791.42,Credit,2024-03-13,"Mcdowell, Ortiz and Lopez",ATM
+352,284,574.42,Debit,2025-02-06,"Clarke, Lane and Wilson",POS
+353,45,70.42,Debit,2023-08-11,Pena-Watts,Mobile
+354,270,413.74,Debit,2024-04-07,Cox-Moore,Online
+355,65,972.52,Credit,2024-12-24,"King, Wyatt and Henderson",Mobile
+356,239,681.71,Debit,2024-05-16,"Hill, Becker and Fischer",POS
+357,283,641.59,Credit,2024-06-21,"Bowers, Olson and Wood",POS
+358,222,505.35,Credit,2024-10-10,King-Parker,Online
+359,266,157.25,Credit,2024-04-29,"Sanders, Taylor and Shields",POS
+360,166,935.06,Credit,2023-11-06,"Hall, Logan and Avery",ATM
+361,266,895.45,Credit,2023-10-22,Romero LLC,ATM
+362,101,636.88,Debit,2025-04-19,"Mendez, Cohen and Williams",POS
+363,156,616.36,Credit,2024-06-03,"Smith, Davis and Thomas",POS
+364,298,158.42,Debit,2025-07-25,"Graham, Brown and Walker",Online
+365,15,85.82,Debit,2023-10-07,"Johnson, Cruz and Joyce",POS
+366,293,419.5,Credit,2024-11-24,"Meyer, Dawson and Harper",Mobile
+367,280,293.22,Debit,2025-03-28,Bowman Group,Mobile
+368,126,805.66,Debit,2023-08-14,Jefferson PLC,ATM
+369,233,77.61,Credit,2024-03-15,Johnson PLC,POS
+370,226,418.54,Debit,2024-09-05,"Hale, Gilbert and Craig",POS
+371,175,608.63,Debit,2024-05-11,Pena and Sons,ATM
+372,177,975.5,Credit,2023-10-12,Chan-Gomez,ATM
+373,264,563.84,Debit,2024-06-07,Willis-Holmes,POS
+374,239,126.91,Debit,2025-02-28,"Jones, Davis and Mitchell",POS
+375,73,101.33,Debit,2025-05-11,"Herman, Bailey and Richmond",Mobile
+376,215,252.03,Credit,2024-03-07,Obrien and Sons,ATM
+377,296,722.52,Credit,2024-07-24,Andrews-Green,POS
+378,256,995.99,Debit,2024-06-17,"Rodriguez, Jones and Phillips",Mobile
+379,158,499.88,Credit,2023-11-04,"Frye, Walter and Li",Mobile
+380,259,459.94,Credit,2024-10-25,Benson-Church,POS
+381,299,356.13,Credit,2024-10-16,Carrillo-Todd,ATM
+382,254,599.53,Debit,2025-03-30,Maldonado-Mosley,ATM
+383,275,13.14,Credit,2025-06-05,Olson LLC,Mobile
+384,69,883.04,Debit,2023-09-27,Schultz-Gamble,Mobile
+385,188,50.02,Credit,2025-01-12,"Hall, Stewart and Moses",POS
+386,186,555.46,Credit,2024-09-10,"Smith, Collier and Wright",Mobile
+387,259,453.1,Debit,2023-10-17,Nunez-Nicholson,Online
+388,66,975.21,Debit,2023-10-04,"Velazquez, Woods and Gomez",ATM
+389,174,560.04,Debit,2025-06-30,"Adams, Valentine and Vega",POS
+390,102,604.45,Debit,2025-07-12,Porter and Sons,Online
+391,24,43.72,Debit,2024-02-04,"Allen, Baker and Perez",Mobile
+392,266,459.7,Credit,2025-05-15,Huff LLC,ATM
+393,164,166.69,Debit,2023-12-05,Wilson Inc,ATM
+394,260,829.15,Debit,2025-01-11,"Vasquez, Smith and Vincent",ATM
+395,244,816.67,Debit,2023-09-07,Watson-Stewart,ATM
+396,57,980.0,Debit,2025-07-03,"Melton, Henry and Joyce",Online
+397,243,269.2,Credit,2025-07-17,"Ramirez, Walker and Ray",Online
+398,299,483.05,Debit,2023-09-17,"Lloyd, Mendoza and Fernandez",POS
+399,125,36.41,Credit,2024-08-30,Long-Parks,POS
+400,10,443.83,Debit,2023-12-19,Bray-Wolfe,POS
+401,212,692.05,Debit,2024-07-28,Norris-Smith,Mobile
+402,32,707.25,Credit,2024-01-16,Carpenter-Nguyen,ATM
+403,245,527.85,Debit,2024-11-23,Lopez-Baker,POS
+404,236,912.56,Debit,2024-03-02,Mullen-Cooper,ATM
+405,136,612.03,Credit,2023-12-26,Coleman-Barnes,POS
+406,143,560.3,Credit,2025-03-12,Diaz-Morales,ATM
+407,148,706.38,Debit,2024-07-21,Duncan PLC,ATM
+408,246,352.06,Debit,2025-01-19,Olsen Ltd,ATM
+409,63,575.61,Debit,2024-03-02,Peters Group,Mobile
+410,177,954.84,Credit,2024-01-05,Marsh Ltd,ATM
+411,22,291.19,Credit,2023-11-30,Shaffer-Thompson,ATM
+412,227,657.69,Debit,2024-08-28,Cowan Ltd,POS
+413,104,828.81,Debit,2024-09-10,"Le, Floyd and Evans",ATM
+414,71,113.68,Credit,2024-10-15,"Williams, Garcia and Martin",POS
+415,26,671.48,Credit,2024-01-20,Woods-Soto,POS
+416,27,104.7,Debit,2024-07-20,"Cook, Ward and Castro",Mobile
+417,52,682.79,Credit,2025-07-29,Cooper-Jenkins,Online
+418,282,978.02,Credit,2024-05-04,"Mccarty, Gonzalez and Johnston",Mobile
+419,244,480.06,Credit,2024-12-22,"Thompson, Deleon and Kelly",ATM
+420,165,288.99,Credit,2025-01-09,"Freeman, Doyle and Preston",Online
+421,294,236.06,Credit,2024-05-27,"Mitchell, Welch and Thomas",POS
+422,214,882.83,Credit,2023-12-14,"Morton, Rogers and Welch",Online
+423,204,789.02,Credit,2024-10-23,Sweeney-Jones,ATM
+424,20,14.22,Credit,2023-12-09,Perez-Stewart,ATM
+425,146,457.08,Debit,2024-03-19,"Adams, Newman and Nelson",POS
+426,259,470.68,Credit,2024-07-16,Adkins-Meyer,Online
+427,170,166.68,Debit,2024-07-20,Jackson-Dickerson,ATM
+428,96,19.01,Debit,2023-11-11,"Young, King and Manning",ATM
+429,291,676.03,Credit,2025-03-10,Clark Group,POS
+430,208,827.85,Debit,2023-10-25,Brown Group,Online
+431,206,670.91,Credit,2024-10-04,Johnson Group,POS
+432,245,326.98,Credit,2024-09-15,Garcia PLC,Online
+433,134,386.66,Debit,2023-12-04,Pena Group,ATM
+434,169,305.44,Credit,2024-04-02,Wright LLC,ATM
+435,185,694.3,Credit,2024-07-15,"Martinez, Rose and Jackson",Online
+436,239,310.27,Debit,2023-09-02,"Kelly, Herman and Lin",ATM
+437,61,640.52,Debit,2024-08-02,"Donovan, Dunn and Taylor",ATM
+438,114,223.03,Credit,2025-01-28,"Thompson, Harper and Welch",Mobile
+439,79,457.7,Debit,2024-12-11,"Graham, Bowman and Ferguson",Mobile
+440,282,913.23,Credit,2025-07-11,Olson-Perez,POS
+441,42,527.88,Debit,2023-10-14,Parker-Gutierrez,Online
+442,289,116.65,Credit,2023-12-04,Smith-Mills,POS
+443,85,331.48,Debit,2025-03-16,Cooper Group,Online
+444,106,718.33,Debit,2024-09-24,Watts Group,Online
+445,262,448.26,Credit,2025-03-14,Evans-Cannon,Mobile
+446,68,515.68,Debit,2025-04-16,Harper-Robles,Online
+447,287,465.07,Debit,2024-10-04,Lopez-Khan,Online
+448,203,258.18,Credit,2024-07-10,Wright-Espinoza,POS
+449,297,77.66,Debit,2024-12-19,Clayton-Walker,ATM
+450,33,543.46,Credit,2023-10-06,Garrett-Black,Online
+451,242,36.58,Debit,2025-04-18,"Aguirre, Cohen and Mitchell",POS
+452,70,767.0,Debit,2025-03-05,"Lamb, Gutierrez and Castaneda",ATM
+453,196,451.29,Debit,2023-12-25,Roberts Ltd,Mobile
+454,42,684.32,Credit,2024-07-24,"Chavez, Graves and Vasquez",ATM
+455,61,182.58,Debit,2024-04-11,Hernandez PLC,POS
+456,115,835.65,Credit,2023-08-23,Compton LLC,ATM
+457,238,675.13,Debit,2024-03-02,Espinoza Ltd,Mobile
+458,118,251.27,Debit,2023-08-12,Davis Inc,POS
+459,142,192.54,Credit,2024-08-23,Peterson LLC,Online
+460,215,616.85,Credit,2025-04-07,Bolton-Ford,POS
+461,106,71.95,Credit,2025-04-11,Rivera and Sons,Mobile
+462,25,248.51,Credit,2023-09-18,Rowe-Jones,Mobile
+463,225,238.17,Credit,2024-08-05,Lee LLC,Online
+464,72,506.38,Debit,2025-05-01,Clayton-Martinez,POS
+465,295,322.31,Debit,2025-03-24,"Wright, Wise and Ramos",POS
+466,155,876.88,Credit,2025-02-28,Gonzalez Ltd,Mobile
+467,154,278.78,Credit,2025-03-26,Boyd and Sons,Mobile
+468,285,498.14,Debit,2024-08-07,Maldonado-Collins,Mobile
+469,269,322.14,Debit,2024-04-12,Soto Inc,Mobile
+470,77,303.39,Credit,2025-03-06,"Meyer, King and Little",Mobile
+471,124,850.09,Debit,2024-01-07,Clay-Boyer,POS
+472,238,915.17,Debit,2024-01-22,Young Group,Mobile
+473,286,532.34,Debit,2024-04-14,Jackson LLC,POS
+474,131,207.32,Credit,2024-11-02,Foster and Sons,Mobile
+475,190,97.0,Credit,2023-08-12,Perkins Ltd,Online
+476,138,380.28,Credit,2024-08-09,"Carlson, Watson and Davis",Online
+477,97,805.63,Credit,2023-12-06,Davis-Montgomery,Mobile
+478,107,870.13,Debit,2025-07-29,"Brown, Kelly and Moore",ATM
+479,8,215.75,Credit,2024-09-25,Martinez and Sons,Online
+480,246,914.87,Credit,2024-04-08,"Kramer, Sherman and Trujillo",Mobile
+481,123,554.32,Debit,2024-07-11,"Lee, Norris and Howard",Mobile
+482,239,535.98,Debit,2023-11-18,Roach-Washington,ATM
+483,134,362.85,Debit,2024-07-10,"Phillips, Terry and Lopez",Mobile
+484,51,803.8,Debit,2023-12-28,"Bailey, Oconnor and Hill",ATM
+485,105,373.85,Debit,2025-05-12,"Rocha, Spencer and Jones",Online
+486,289,864.76,Credit,2023-12-04,Phillips-Baker,Online
+487,134,555.55,Debit,2024-05-17,Smith-Little,ATM
+488,79,200.21,Credit,2024-05-26,"Lopez, Smith and Vincent",Mobile
+489,292,834.2,Debit,2025-03-30,"Allen, Le and Barrett",ATM
+490,132,764.54,Debit,2024-09-27,Lee-Vega,Mobile
+491,236,172.39,Debit,2025-03-22,"Moore, Campbell and Ortiz",POS
+492,72,721.71,Debit,2024-04-12,Davis Ltd,POS
+493,278,990.37,Credit,2023-09-26,Conley and Sons,Online
+494,39,945.46,Credit,2023-12-22,Harris Group,Online
+495,212,141.8,Credit,2024-01-01,Johnson Ltd,Online
+496,78,14.1,Debit,2025-05-16,Barrett-Fox,ATM
+497,31,619.75,Debit,2025-01-31,"Scott, Diaz and Obrien",Mobile
+498,9,11.58,Debit,2023-09-30,Conrad and Sons,Online
+499,9,531.77,Debit,2024-12-27,Hebert-Collier,ATM
+500,9,504.7,Debit,2024-08-03,"Brown, Grant and Hurley",POS
+501,55,918.46,Credit,2024-06-24,Bauer-Brown,POS
+502,99,621.68,Debit,2024-11-27,Rice-Navarro,ATM
+503,137,795.96,Credit,2025-05-15,Miller-Lewis,ATM
+504,208,461.7,Credit,2024-09-12,Garcia and Sons,POS
+505,154,685.62,Credit,2024-09-21,Lopez-Fox,Online
+506,48,408.25,Debit,2024-02-15,"Garrett, White and Curry",Mobile
+507,29,638.56,Credit,2024-06-23,"Garcia, Fowler and Howard",Online
+508,256,846.1,Debit,2024-07-27,"Ortega, Andrade and Jackson",Online
+509,271,919.56,Credit,2023-12-24,"Morales, Morgan and Moore",POS
+510,291,478.12,Credit,2024-11-13,Mahoney-Orr,Online
+511,144,899.82,Credit,2024-10-06,Kirk-Gutierrez,POS
+512,162,20.58,Credit,2024-12-09,Mckenzie-Morris,POS
+513,204,929.23,Debit,2024-02-08,"Gardner, Brooks and Pierce",POS
+514,289,244.27,Debit,2025-03-06,Ward-Chavez,ATM
+515,197,756.83,Credit,2024-06-09,Barber LLC,Online
+516,257,746.73,Debit,2024-11-10,Holmes LLC,Online
+517,51,439.9,Credit,2023-08-11,Joyce-Lewis,ATM
+518,204,969.08,Debit,2024-04-06,Ingram Ltd,Online
+519,140,784.63,Debit,2025-05-05,Ellison-Dixon,Mobile
+520,117,359.03,Debit,2024-10-22,"Moore, Johnson and Kelly",Mobile
+521,96,681.3,Debit,2023-11-21,Richardson-Perkins,Online
+522,152,799.06,Credit,2024-02-02,Shepherd-Davis,Online
+523,138,158.45,Credit,2024-06-11,"Hardin, Navarro and Cummings",Mobile
+524,163,363.9,Credit,2025-04-12,Thompson-Petersen,Online
+525,158,447.51,Debit,2025-01-22,"Johnston, Velez and Larson",Online
+526,68,91.86,Debit,2024-03-26,Cross PLC,Mobile
+527,286,556.97,Debit,2024-05-28,Deleon LLC,Online
+528,14,94.17,Credit,2024-05-02,Butler-Parrish,ATM
+529,198,17.28,Debit,2025-06-11,Adkins PLC,Mobile
+530,44,726.22,Credit,2025-07-27,Walters Ltd,POS
+531,195,173.65,Debit,2024-05-29,Torres Inc,ATM
+532,138,495.66,Credit,2024-04-10,"Cunningham, Murphy and Wolfe",POS
+533,223,279.58,Debit,2023-12-02,Nunez Group,Mobile
+534,40,364.32,Credit,2024-07-17,"Johnston, Davis and Reynolds",Mobile
+535,101,460.57,Credit,2025-04-07,Hernandez-Rogers,ATM
+536,4,949.08,Debit,2024-08-09,"Mcgee, Kelley and Baker",Mobile
+537,169,443.02,Debit,2024-06-10,"Hamilton, Wolfe and Gill",POS
+538,154,324.06,Credit,2024-08-13,"Gonzalez, Foster and Duncan",Mobile
+539,161,181.75,Debit,2024-10-14,"Shea, Warren and Allen",ATM
+540,150,736.2,Debit,2024-02-28,Morris-Glass,POS
+541,167,379.18,Debit,2023-10-14,Powers Group,ATM
+542,59,932.41,Credit,2024-05-15,Lee-Cooper,POS
+543,282,31.78,Debit,2024-12-27,Carrillo and Sons,POS
+544,225,798.7,Credit,2024-05-03,"Underwood, Lang and Hanson",Mobile
+545,256,143.48,Debit,2024-07-13,Glass and Sons,POS
+546,130,660.37,Debit,2024-01-08,"Brooks, Todd and Farrell",Mobile
+547,38,451.82,Debit,2023-11-01,"Brown, Rush and Mcintosh",Mobile
+548,274,509.08,Debit,2025-06-10,Smith-Benson,Online
+549,185,703.13,Credit,2023-10-31,Cole-Johnson,Online
+550,128,659.31,Debit,2024-01-15,"Medina, Harris and Mills",POS
+551,23,565.4,Debit,2024-02-22,"Webb, Blair and Thomas",ATM
+552,221,110.41,Credit,2025-01-29,"Smith, Aguilar and Alvarado",ATM
+553,114,513.12,Credit,2023-09-08,Jackson-Campbell,Mobile
+554,192,394.18,Credit,2025-04-09,"Williamson, Brown and Pena",ATM
+555,13,485.36,Debit,2023-08-12,Price LLC,Mobile
+556,44,120.49,Credit,2025-01-01,"Ward, Rodriguez and Carter",ATM
+557,160,346.35,Credit,2025-06-22,"Hughes, Whitney and Romero",Mobile
+558,179,478.78,Debit,2025-02-07,Mckee Group,Mobile
+559,164,71.84,Credit,2025-06-09,"Schmidt, Lopez and Mason",Online
+560,12,849.93,Credit,2024-07-26,"House, Smith and Wright",POS
+561,125,518.41,Credit,2024-09-20,Cook-Long,ATM
+562,287,429.24,Debit,2023-12-05,Reed LLC,POS
+563,208,631.61,Credit,2024-05-08,"Turner, Ferrell and Irwin",Mobile
+564,203,34.05,Credit,2024-03-07,Garrett Group,Mobile
+565,220,391.89,Credit,2025-06-27,Raymond LLC,POS
+566,143,753.56,Credit,2024-01-28,Peterson Group,Online
+567,275,191.03,Debit,2024-12-28,Miller Group,POS
+568,235,118.39,Debit,2024-09-13,"Salazar, Garrett and Perez",ATM
+569,199,613.25,Credit,2024-02-08,"Hernandez, Waller and Browning",ATM
+570,181,846.29,Credit,2024-04-17,Daniels-Clark,ATM
+571,44,673.75,Debit,2023-11-21,"Weaver, Mcbride and Huffman",Online
+572,123,308.85,Credit,2024-04-02,"Thornton, Mills and Taylor",ATM
+573,73,513.27,Debit,2025-07-12,Douglas PLC,POS
+574,295,386.79,Credit,2025-07-18,Stewart PLC,Mobile
+575,276,694.97,Credit,2024-09-22,"Wilson, Stewart and Hobbs",POS
+576,251,292.39,Credit,2025-02-20,Cannon Group,ATM
+577,231,621.31,Debit,2024-06-20,Ramos-Peck,Online
+578,249,140.85,Debit,2025-06-30,"Mahoney, Hill and Maxwell",Mobile
+579,210,686.27,Debit,2023-10-27,Lopez PLC,Mobile
+580,251,171.42,Credit,2024-11-27,Obrien-Salazar,POS
+581,150,37.53,Credit,2024-11-11,Hall Inc,ATM
+582,87,781.84,Debit,2024-05-11,Watts Group,Online
+583,294,118.64,Debit,2023-11-18,"Mathis, Harrison and Banks",Online
+584,226,548.62,Debit,2023-12-26,Henry-Taylor,Online
+585,127,301.22,Credit,2024-01-03,Johnson Inc,Mobile
+586,135,351.83,Credit,2025-07-24,Clements-Walker,Mobile
+587,61,776.75,Credit,2025-01-08,Todd Inc,POS
+588,180,861.74,Debit,2023-12-21,Camacho-Burns,POS
+589,72,785.93,Credit,2024-04-14,Clay-Patterson,Online
+590,292,354.06,Debit,2025-03-30,Franklin Group,POS
+591,166,979.11,Debit,2025-02-15,Long-Crosby,ATM
+592,294,271.01,Credit,2024-10-23,"Herrera, Davidson and Padilla",POS
+593,211,919.17,Debit,2023-09-04,"Rodriguez, Bryant and Rich",POS
+594,68,253.43,Debit,2025-06-17,Stone Group,POS
+595,202,492.01,Debit,2025-02-27,Grant PLC,Mobile
+596,193,454.73,Credit,2025-03-22,"Estes, Lee and Gonzales",Mobile
+597,264,751.05,Debit,2025-06-22,Ayala-Mitchell,Mobile
+598,250,330.65,Credit,2023-12-13,Phillips-Ellison,Online
+599,235,636.67,Debit,2025-01-22,"Mckee, Ford and Lucas",Online
+600,274,400.73,Debit,2023-10-15,"Mason, White and Richards",POS
+601,254,272.19,Debit,2025-06-30,"Payne, Long and Morris",ATM
+602,281,580.04,Debit,2023-08-25,Chavez Ltd,ATM
+603,25,50.71,Debit,2025-07-01,Khan Inc,Online
+604,64,929.79,Credit,2024-02-16,Holt-Meadows,Mobile
+605,234,5.67,Debit,2025-04-15,Higgins Inc,POS
+606,68,882.74,Debit,2023-10-15,Mccarthy Ltd,POS
+607,141,97.87,Debit,2024-05-13,Mills Group,ATM
+608,43,374.98,Credit,2025-02-20,"Salazar, Moore and Pierce",Online
+609,203,627.48,Credit,2023-09-09,Barr PLC,Mobile
+610,47,705.18,Credit,2025-06-12,"Huffman, Martin and Thomas",POS
+611,245,82.55,Credit,2025-03-25,"Williams, Parker and Cross",Mobile
+612,5,13.02,Debit,2024-07-17,Sims-Wilson,Online
+613,217,695.56,Debit,2023-11-16,Smith LLC,Online
+614,118,386.15,Credit,2023-08-15,Jimenez-Jimenez,Online
+615,161,370.72,Debit,2025-04-24,Franklin Group,POS
+616,196,774.59,Credit,2024-02-06,Chapman Group,POS
+617,36,532.86,Credit,2024-07-23,Ramos-Burke,POS
+618,226,354.43,Credit,2023-08-11,Khan LLC,POS
+619,211,618.0,Debit,2024-11-29,"Grant, Bryan and Williams",POS
+620,45,897.11,Credit,2023-11-29,Delgado Inc,Online
+621,197,354.78,Debit,2023-11-26,Estrada PLC,ATM
+622,72,251.55,Credit,2024-03-24,Knapp-Williams,POS
+623,284,602.99,Debit,2024-06-24,Martin LLC,Online
+624,155,209.42,Credit,2024-11-22,"Holt, Larson and Cobb",Mobile
+625,152,647.94,Credit,2023-12-21,Curry-Ward,Mobile
+626,198,117.18,Debit,2023-09-02,Mack LLC,Online
+627,271,889.28,Credit,2024-05-18,Wilkins-Chang,ATM
+628,163,136.32,Debit,2025-05-22,"Brown, Ruiz and Martinez",ATM
+629,280,684.53,Debit,2025-06-03,Murphy-Gutierrez,Online
+630,9,589.43,Credit,2024-01-15,"Clark, Brown and Duncan",ATM
+631,111,44.63,Credit,2024-12-06,"Benitez, Webb and Barker",Mobile
+632,260,290.06,Debit,2025-07-31,"Mitchell, Lynch and Stewart",Mobile
+633,206,87.02,Credit,2024-09-17,"Carney, Gomez and Anderson",ATM
+634,43,313.36,Credit,2024-10-16,Stone-Welch,POS
+635,275,330.12,Credit,2024-08-22,Stephenson and Sons,ATM
+636,224,731.31,Credit,2025-02-06,Krause-Smith,Online
+637,126,90.78,Debit,2023-08-24,Garrett-Wilson,Online
+638,233,614.24,Credit,2025-05-25,Marsh Group,ATM
+639,90,123.85,Credit,2024-06-22,Cook PLC,Online
+640,84,498.93,Debit,2025-04-23,"Lewis, Davidson and Vaughn",ATM
+641,86,375.01,Debit,2024-02-19,Parker PLC,Online
+642,16,338.34,Debit,2024-10-06,Wang-Wilson,ATM
+643,269,68.55,Credit,2024-04-20,Foster-Carroll,Mobile
+644,234,513.23,Credit,2023-08-28,Lee LLC,Mobile
+645,291,171.05,Credit,2025-07-22,"Mendoza, Wells and Johnson",ATM
+646,53,894.8,Credit,2023-11-19,Moore-Murray,POS
+647,261,7.56,Credit,2025-06-08,"Huang, Ford and Olsen",POS
+648,24,474.41,Debit,2025-07-26,"Brown, Meyer and Cunningham",POS
+649,92,931.5,Credit,2025-01-13,Peters-Smith,Mobile
+650,115,325.19,Debit,2024-10-27,"Rivera, Hendricks and Flynn",ATM
+651,139,826.87,Debit,2023-09-26,Ramirez Inc,Online
+652,258,674.96,Credit,2024-04-25,Sims-Kirby,POS
+653,115,805.32,Credit,2024-10-22,"Price, Larson and Hancock",Mobile
+654,36,877.61,Debit,2025-03-11,Thornton-Edwards,ATM
+655,168,90.95,Debit,2023-08-30,Gutierrez-Crawford,Online
+656,189,204.67,Debit,2024-02-06,Hayes-Sampson,POS
+657,238,371.43,Debit,2024-01-20,"Turner, Rodriguez and Glover",POS
+658,280,761.68,Credit,2025-04-01,Gentry Group,POS
+659,4,932.74,Credit,2024-09-02,Lloyd PLC,POS
+660,278,349.69,Credit,2023-12-03,Peterson Group,ATM
+661,1,760.13,Debit,2025-02-24,"Collins, Murphy and Hammond",ATM
+662,54,209.17,Credit,2023-10-21,"Rhodes, Anderson and Hardy",Mobile
+663,252,961.38,Credit,2024-07-27,Reeves-Boyd,ATM
+664,48,48.68,Credit,2023-08-09,Randolph-Mcdaniel,Mobile
+665,191,461.17,Credit,2024-11-09,Cook Inc,Online
+666,259,137.85,Debit,2023-10-25,"Miranda, Reese and Johnson",Online
+667,291,66.97,Credit,2025-03-17,Fowler-Clark,POS
+668,150,264.69,Debit,2024-01-08,Mitchell PLC,Mobile
+669,168,321.47,Debit,2024-04-09,Lambert-Nelson,POS
+670,39,943.84,Credit,2023-12-06,Wilson-Mullen,Online
+671,80,110.13,Debit,2024-10-13,"Garcia, Daniels and Dunn",Mobile
+672,161,409.48,Debit,2024-03-03,Harding LLC,POS
+673,232,311.77,Debit,2024-10-24,Jackson LLC,Online
+674,47,161.83,Debit,2024-11-24,Fernandez-Williams,Online
+675,111,836.75,Debit,2023-08-28,Berger-Williams,POS
+676,47,712.6,Debit,2024-05-29,Miller Group,Mobile
+677,263,53.71,Debit,2023-12-23,"Carlson, Watkins and Huff",ATM
+678,90,35.93,Debit,2025-01-30,Jensen-Edwards,Mobile
+679,285,749.34,Credit,2025-05-01,Marquez Ltd,Online
+680,237,106.4,Credit,2025-04-25,"Miller, Livingston and Duran",Online
+681,7,66.36,Credit,2024-10-20,Davis Ltd,POS
+682,102,824.56,Debit,2024-08-03,Bryant Ltd,Online
+683,299,588.19,Credit,2024-12-18,"Miranda, Ruiz and Meza",Online
+684,34,201.76,Debit,2023-11-25,"Scott, Cox and White",POS
+685,48,905.55,Debit,2025-07-18,"Rivera, Valencia and Nguyen",Online
+686,22,942.57,Credit,2024-08-18,Jones Inc,POS
+687,294,435.99,Debit,2024-05-04,Murray-Jackson,Mobile
+688,16,385.82,Debit,2025-03-24,Munoz-Anderson,POS
+689,182,218.64,Credit,2023-10-24,Roth-Robles,ATM
+690,144,448.78,Credit,2024-04-15,"Banks, Sparks and Patel",Online
+691,126,649.04,Debit,2024-06-12,"Gutierrez, Oliver and Kelley",Mobile
+692,282,481.64,Credit,2024-08-14,Jones-Clark,ATM
+693,197,141.55,Credit,2025-01-26,"Reynolds, Baird and Bradley",POS
+694,279,795.87,Debit,2024-04-27,"Benson, Thompson and Caldwell",ATM
+695,246,546.8,Debit,2025-03-02,"Andrews, Tucker and Vargas",ATM
+696,290,504.88,Debit,2024-07-30,Peters-Short,ATM
+697,93,30.93,Credit,2023-12-20,Blanchard-Jones,Online
+698,144,63.3,Debit,2023-10-29,"Cervantes, Wise and Gray",ATM
+699,300,999.61,Credit,2024-08-23,"Keller, Davis and Montoya",Online
+700,127,658.58,Debit,2025-06-25,"Berger, Fields and Smith",Online
+701,113,577.81,Debit,2023-11-27,"Hernandez, Schmidt and Price",ATM
+702,89,180.22,Debit,2024-10-27,Gonzalez-Maldonado,ATM
+703,15,704.94,Debit,2024-04-07,Hudson-Gentry,POS
+704,289,948.63,Debit,2024-03-29,Robbins-Herman,ATM
+705,90,492.98,Credit,2023-10-14,"Smith, Downs and Powell",Online
+706,120,603.65,Credit,2023-11-13,Brown-Santana,Mobile
+707,1,335.08,Credit,2023-09-16,Warner LLC,POS
+708,175,718.35,Debit,2023-10-30,Glenn-Young,Online
+709,12,151.97,Credit,2025-02-01,"Long, Flores and Reyes",Online
+710,270,861.37,Credit,2024-05-28,Gardner-Bates,ATM
+711,203,588.09,Debit,2024-08-08,Lopez Group,ATM
+712,166,140.77,Credit,2025-05-22,Larsen-Moore,Mobile
+713,250,650.93,Credit,2025-06-13,"Martinez, Smith and Wong",ATM
+714,115,667.2,Credit,2023-11-25,"Dyer, Barrett and Proctor",Mobile
+715,158,735.32,Debit,2023-11-19,Taylor Group,POS
+716,91,730.19,Debit,2025-06-04,English-Dominguez,Online
+717,94,604.38,Credit,2025-07-28,Hanson-Gibson,Online
+718,255,144.94,Credit,2024-06-30,"Wilkins, Cruz and Perez",POS
+719,178,982.47,Credit,2024-06-30,"Smith, Jimenez and Simon",Online
+720,172,449.4,Debit,2025-02-09,"Adams, House and Johnston",POS
+721,128,694.71,Debit,2023-08-31,Carroll Ltd,ATM
+722,56,721.81,Credit,2024-05-18,Carpenter Ltd,Mobile
+723,225,733.92,Credit,2023-10-07,Cross PLC,Mobile
+724,253,882.36,Debit,2025-06-03,Marshall-Miller,Mobile
+725,52,829.66,Credit,2025-06-27,"Davis, Kennedy and Harmon",POS
+726,232,78.34,Credit,2025-01-06,Sutton PLC,ATM
+727,11,322.12,Credit,2025-04-16,"Edwards, Brown and Cooper",Online
+728,176,174.25,Debit,2025-04-01,Harrison PLC,POS
+729,39,549.31,Credit,2025-07-09,Berry-Rivera,ATM
+730,248,705.98,Debit,2024-05-06,Roberts-Johnson,POS
+731,223,161.32,Credit,2025-07-22,"Curry, Acosta and Elliott",ATM
+732,106,974.53,Debit,2023-09-22,"Kennedy, Jackson and Williams",ATM
+733,145,300.91,Credit,2024-03-19,"Weber, Mitchell and Miller",Online
+734,202,573.91,Debit,2024-09-01,York LLC,POS
+735,28,364.02,Debit,2024-02-17,Gilbert LLC,Online
+736,151,824.78,Debit,2025-06-02,Smith-Rodriguez,POS
+737,50,30.61,Credit,2023-12-19,"Stevenson, Hopkins and Wood",ATM
+738,42,476.2,Credit,2023-12-20,Patton-Young,ATM
+739,204,473.59,Debit,2023-12-24,"Atkins, Cooper and Miller",Online
+740,279,390.59,Debit,2023-11-26,"Peck, Moore and Crawford",Mobile
+741,190,190.65,Credit,2024-06-21,Young-Alexander,ATM
+742,226,467.73,Credit,2024-12-13,Clark Ltd,ATM
+743,289,66.33,Credit,2025-05-20,Brown-Baker,Online
+744,177,809.14,Debit,2025-05-03,Williams Group,POS
+745,284,65.68,Debit,2024-06-10,Turner-Reese,Mobile
+746,275,688.63,Debit,2025-03-12,"Hall, Vega and Price",POS
+747,244,302.36,Debit,2024-02-25,Moreno Group,Online
+748,258,573.36,Credit,2023-08-15,Ho-Cole,Online
+749,230,177.01,Credit,2025-01-14,Nixon-Vega,POS
+750,99,130.56,Debit,2023-09-06,Hardin Ltd,Online
+751,223,205.91,Credit,2024-05-06,Bishop-Pearson,ATM
+752,164,911.25,Credit,2024-03-04,Nelson-Lang,Online
+753,199,558.58,Debit,2024-02-20,"Silva, Murray and Leonard",ATM
+754,267,460.87,Credit,2024-02-09,"Powers, Townsend and Meyer",Mobile
+755,58,417.37,Credit,2025-01-13,"Kaiser, Edwards and Smith",Online
+756,55,564.87,Credit,2023-08-12,Smith Inc,ATM
+757,275,880.74,Debit,2024-09-16,Jennings LLC,ATM
+758,197,656.51,Debit,2024-01-23,"Campbell, Lee and Johnson",Online
+759,89,279.04,Credit,2023-10-16,Mays Ltd,Mobile
+760,20,398.81,Debit,2025-06-30,Sampson Ltd,POS
+761,26,747.02,Debit,2023-11-08,"Rosario, Miller and Jacobs",ATM
+762,11,341.18,Debit,2024-05-24,"Gallagher, Wong and Pratt",ATM
+763,144,843.63,Credit,2023-12-27,Dominguez LLC,POS
+764,69,303.98,Debit,2024-03-21,Guerrero-Jones,ATM
+765,138,730.16,Credit,2024-07-23,Hammond-Schwartz,POS
+766,227,215.33,Debit,2025-01-05,Scott-Norman,Mobile
+767,265,867.85,Credit,2024-03-08,Reyes LLC,POS
+768,34,314.57,Debit,2023-09-21,Sosa-Baker,POS
+769,269,879.94,Credit,2024-07-13,Vasquez and Sons,POS
+770,99,875.8,Credit,2024-11-22,White-Vasquez,Online
+771,128,37.91,Credit,2023-11-25,"Mack, Robinson and Schneider",ATM
+772,102,277.61,Debit,2025-07-14,Baldwin-Garcia,Mobile
+773,64,682.77,Credit,2023-10-01,Duncan LLC,ATM
+774,251,596.07,Credit,2025-03-31,Smith-Jimenez,Mobile
+775,283,353.01,Credit,2024-12-25,"Smith, Johnson and Myers",ATM
+776,47,288.64,Debit,2023-12-01,"Rivera, Myers and Smith",Online
+777,84,854.55,Credit,2025-02-05,Mendoza-Powell,POS
+778,116,679.31,Debit,2025-02-21,Fernandez Inc,Mobile
+779,263,24.95,Credit,2024-05-30,"Meyers, Olson and Bradley",Mobile
+780,68,649.13,Credit,2025-08-01,Cook-Turner,POS
+781,130,610.3,Debit,2023-09-17,"Shea, Holland and Diaz",ATM
+782,217,896.01,Debit,2025-05-29,Miller-Stevens,Mobile
+783,130,222.12,Debit,2025-03-23,Holland-Thompson,Mobile
+784,300,106.8,Debit,2023-09-05,Guerrero-Evans,ATM
+785,153,685.99,Debit,2024-06-04,Mccoy LLC,Online
+786,173,988.42,Debit,2024-08-17,Mcclure Group,ATM
+787,134,657.84,Debit,2025-02-27,Taylor and Sons,POS
+788,77,519.71,Credit,2023-08-25,"Davies, Allen and Price",Online
+789,207,662.23,Credit,2025-04-12,"Schneider, Porter and Hanna",Online
+790,255,997.48,Debit,2025-04-27,Levy-Smith,Mobile
+791,208,391.33,Credit,2024-04-25,Morgan Ltd,POS
+792,176,727.92,Credit,2023-09-08,Wilson-Roman,Mobile
+793,184,509.78,Credit,2025-01-05,"Ellis, Gregory and Sawyer",POS
+794,151,102.12,Credit,2023-11-29,"Riley, Buckley and Johnson",ATM
+795,287,764.1,Credit,2023-11-23,Valdez-Ruiz,ATM
+796,46,226.14,Credit,2025-07-19,"Williams, Haynes and Anderson",ATM
+797,216,789.15,Debit,2023-12-17,"Williams, Parker and Leon",ATM
+798,134,587.64,Debit,2024-07-25,"Jackson, Garza and Meyers",Online
+799,241,58.41,Credit,2023-10-27,Crawford PLC,Mobile
+800,100,502.97,Debit,2024-01-24,Brock Group,ATM
+801,212,58.79,Credit,2024-04-24,"Gregory, Nguyen and Daugherty",POS
+802,103,345.96,Debit,2024-10-26,"Taylor, Copeland and Mcguire",POS
+803,162,863.08,Credit,2025-03-21,Watkins LLC,Online
+804,250,335.97,Credit,2023-09-24,Hill Group,ATM
+805,30,9.69,Debit,2023-12-14,"Wood, Martin and Sanchez",POS
+806,87,578.4,Credit,2024-10-31,Anderson Ltd,Mobile
+807,46,133.76,Debit,2024-11-23,Strickland-Smith,Mobile
+808,207,431.88,Debit,2024-08-18,Smith and Sons,Mobile
+809,3,42.54,Credit,2025-07-25,Mann PLC,ATM
+810,8,892.55,Credit,2025-06-24,Butler-Aguirre,Online
+811,3,628.55,Credit,2025-03-28,Schwartz-Harris,POS
+812,177,315.53,Credit,2024-12-14,Mills-Jenkins,Mobile
+813,258,590.73,Credit,2025-08-03,Bishop Inc,Online
+814,24,301.71,Debit,2024-11-11,Love PLC,Mobile
+815,267,598.39,Debit,2023-10-13,"Serrano, Turner and Barnes",Mobile
+816,69,346.02,Debit,2024-10-12,Lee PLC,ATM
+817,97,169.06,Debit,2023-10-19,"Cox, Juarez and Fernandez",Online
+818,117,228.2,Credit,2024-01-23,Townsend-Hopkins,POS
+819,12,591.74,Credit,2024-03-07,Lee and Sons,Online
+820,188,712.55,Credit,2025-01-19,Jimenez-Moore,Mobile
+821,131,772.39,Credit,2025-07-22,Brown LLC,Online
+822,56,655.3,Credit,2024-03-14,Hamilton LLC,Online
+823,60,419.69,Debit,2024-11-27,Williams-Yang,Online
+824,281,256.47,Credit,2025-07-24,"Thompson, Floyd and Washington",POS
+825,5,304.61,Credit,2023-11-04,Jacobson Ltd,ATM
+826,71,421.73,Credit,2024-07-16,"Riley, Barnes and Burgess",Online
+827,145,118.44,Credit,2025-07-03,Hall-Rodriguez,Mobile
+828,102,610.96,Debit,2024-01-29,Young Group,POS
+829,184,704.92,Debit,2025-06-11,Bennett and Sons,POS
+830,21,550.4,Credit,2023-10-02,Richards-Brown,Mobile
+831,170,238.33,Credit,2024-07-09,Robinson PLC,Online
+832,57,836.06,Debit,2024-07-24,Hughes and Sons,POS
+833,47,780.63,Credit,2024-07-26,"Lee, Howard and Nelson",Online
+834,132,646.12,Debit,2024-04-22,Johnson PLC,ATM
+835,136,466.96,Credit,2023-09-21,Taylor-York,POS
+836,21,852.99,Debit,2024-07-27,Jackson-Cooper,ATM
+837,219,739.85,Credit,2025-06-24,Munoz-Clarke,Online
+838,5,852.74,Credit,2024-12-13,"Whitehead, Lane and Tran",ATM
+839,184,895.05,Debit,2024-01-31,Jenkins PLC,Online
+840,191,815.89,Credit,2024-08-19,Vargas Group,Online
+841,206,403.25,Debit,2024-03-09,Blair Ltd,ATM
+842,198,691.45,Debit,2025-06-13,Wright Group,Mobile
+843,86,117.49,Credit,2024-10-29,Snow PLC,POS
+844,54,418.95,Debit,2023-11-29,"Villanueva, Butler and Williams",Mobile
+845,93,613.27,Debit,2024-08-05,"Mack, Johnson and Schmidt",Online
+846,67,485.66,Debit,2024-08-12,"Nicholson, Chavez and Allen",Online
+847,211,443.48,Credit,2024-10-12,Steele Group,ATM
+848,161,17.3,Credit,2024-01-22,Howard and Sons,ATM
+849,266,525.49,Credit,2024-12-21,Smith Ltd,Mobile
+850,128,484.52,Debit,2024-03-29,Warner PLC,POS
+851,286,892.6,Credit,2025-03-08,"Johnson, Gibson and Ingram",Online
+852,81,508.04,Debit,2025-06-15,"Sullivan, Clarke and Wood",Mobile
+853,85,79.49,Debit,2024-07-31,"Schultz, Dalton and Jones",ATM
+854,124,334.24,Debit,2025-06-29,"Cook, Johnson and Simmons",Online
+855,260,226.59,Debit,2024-03-02,"Shah, Daniels and Norton",Mobile
+856,121,83.44,Debit,2025-04-08,"Miller, Gilmore and Fitzgerald",Mobile
+857,46,857.31,Debit,2023-09-17,"Dougherty, Leonard and Barron",ATM
+858,61,980.77,Credit,2023-10-31,Diaz-Harvey,Online
+859,207,415.28,Credit,2024-05-15,Thompson-Hansen,Online
+860,156,890.66,Credit,2023-09-27,"Fletcher, Harris and Zavala",Mobile
+861,175,366.53,Credit,2024-02-07,"Wilson, Mendoza and Crosby",POS
+862,233,335.31,Debit,2024-10-29,"Clark, Mcgee and Perez",ATM
+863,232,118.45,Credit,2024-05-05,Gordon-Henderson,Online
+864,175,358.36,Debit,2023-09-17,Watson Group,ATM
+865,55,50.55,Credit,2024-08-17,"Rose, Martinez and Mckinney",Mobile
+866,72,822.73,Debit,2025-01-13,"Lam, Hayes and Richardson",Online
+867,131,612.8,Credit,2025-01-09,"Lamb, Everett and Jones",Online
+868,202,219.51,Credit,2025-06-28,Miller-Myers,ATM
+869,56,758.36,Credit,2023-12-22,Mullen-Jones,Online
+870,231,460.1,Credit,2023-12-11,Rodriguez-Hernandez,Mobile
+871,3,532.71,Credit,2023-11-30,Meyer Ltd,Mobile
+872,300,485.52,Credit,2023-08-23,Butler-Fleming,POS
+873,66,108.04,Debit,2025-07-29,Wells Group,Mobile
+874,215,979.6,Credit,2024-07-15,"Newman, Carter and Brown",ATM
+875,204,963.78,Debit,2025-06-13,Conley PLC,Mobile
+876,69,142.49,Debit,2024-12-18,Jenkins-Cooper,ATM
+877,284,634.42,Credit,2024-12-19,Tucker-Wade,POS
+878,149,688.18,Credit,2024-09-20,"Wallace, Torres and Anderson",POS
+879,258,544.78,Debit,2025-04-10,Jackson-Green,Online
+880,181,564.47,Debit,2024-08-16,Arellano-Carrillo,ATM
+881,217,809.26,Credit,2023-09-11,Gomez Group,Online
+882,196,149.6,Credit,2023-12-13,"Glass, Joseph and Mitchell",POS
+883,137,751.43,Credit,2023-12-20,"Schwartz, Estrada and Hernandez",ATM
+884,129,150.7,Credit,2024-02-06,Williams LLC,ATM
+885,105,754.83,Credit,2024-10-25,Alexander LLC,ATM
+886,232,106.97,Credit,2023-12-27,Hart Inc,Mobile
+887,122,513.37,Debit,2025-01-03,Spence-Hernandez,Online
+888,196,390.62,Debit,2024-07-19,"Cantrell, Ferguson and Martinez",Online
+889,7,744.95,Credit,2023-08-25,Velazquez-Mack,Mobile
+890,116,911.93,Debit,2024-07-26,Moore-Cordova,POS
+891,100,297.71,Credit,2024-10-03,"Rivera, Thornton and Wells",Online
+892,96,962.66,Credit,2024-03-18,"Estrada, Marsh and Chandler",Mobile
+893,21,431.37,Debit,2025-07-22,Morgan-Rodriguez,POS
+894,83,586.07,Debit,2024-08-12,Taylor PLC,Online
+895,170,469.0,Credit,2023-11-04,Johnson-Williamson,Online
+896,79,928.99,Credit,2024-01-24,Howard-Nguyen,ATM
+897,252,790.96,Debit,2024-11-20,"Lee, Fox and Harrington",Online
+898,163,527.77,Credit,2025-03-23,Gonzalez-Miller,Online
+899,259,163.57,Debit,2025-05-26,Rhodes-Rosario,Online
+900,179,225.09,Credit,2024-09-06,Lee-Stewart,ATM
+901,170,363.99,Credit,2024-11-17,"Harding, Kerr and Ward",Mobile
+902,288,824.57,Credit,2023-11-28,"Nash, Wood and Watson",Online
+903,178,448.44,Credit,2024-03-14,Bell-Madden,Online
+904,165,384.47,Credit,2025-06-15,"Miller, Luna and Wallace",Mobile
+905,132,542.54,Debit,2024-06-23,Roberts-Shaffer,Online
+906,265,823.0,Debit,2025-07-03,Chandler-Perry,Mobile
+907,250,48.63,Credit,2025-05-15,"Harper, Thomas and Turner",ATM
+908,264,86.93,Credit,2025-06-09,"Hatfield, Jones and Choi",POS
+909,276,535.54,Credit,2025-03-15,Davis-Ortiz,POS
+910,110,865.63,Debit,2025-07-16,Perry-Peters,Online
+911,106,540.07,Debit,2025-02-07,"Fischer, Taylor and Lopez",Online
+912,79,28.63,Debit,2024-05-28,Spencer-Williams,Online
+913,45,77.88,Credit,2025-05-08,Davenport-Torres,ATM
+914,286,75.09,Credit,2024-10-13,"Ford, Johnson and Smith",ATM
+915,209,391.09,Debit,2024-02-26,Blanchard-Flowers,Mobile
+916,162,21.81,Credit,2024-08-07,Valdez LLC,Online
+917,33,757.18,Credit,2024-06-25,Vasquez Ltd,Online
+918,184,928.41,Credit,2024-12-18,Johnson LLC,ATM
+919,155,608.53,Debit,2024-08-22,George LLC,Mobile
+920,196,398.14,Credit,2024-10-30,Cunningham-Oneill,Mobile
+921,81,535.8,Credit,2024-12-05,"Alvarez, Benson and Wilson",Mobile
+922,280,298.5,Credit,2024-09-07,"Johnston, Bruce and Martin",ATM
+923,192,957.6,Credit,2023-09-20,Flores Ltd,POS
+924,64,46.56,Debit,2023-11-19,Martin-Nelson,Online
+925,157,214.0,Debit,2024-06-26,"Barr, Kelly and Roberts",POS
+926,212,906.1,Credit,2024-09-20,"Mayer, Palmer and Miranda",POS
+927,95,224.68,Debit,2023-12-26,George and Sons,POS
+928,59,185.45,Credit,2024-10-01,Brennan-Serrano,Mobile
+929,282,77.78,Credit,2025-01-19,Nelson-Wolfe,ATM
+930,51,201.43,Debit,2024-05-13,Ferguson LLC,ATM
+931,183,132.57,Credit,2025-05-06,Smith PLC,Online
+932,146,621.42,Credit,2024-03-11,Maxwell-Jenkins,ATM
+933,249,453.39,Debit,2025-07-21,Garcia and Sons,POS
+934,290,569.03,Debit,2024-08-30,Decker PLC,Mobile
+935,87,9.81,Credit,2024-11-24,"Guerra, Fox and Patel",POS
+936,224,280.3,Debit,2024-10-07,"Avila, Wilson and Stevens",POS
+937,170,878.5,Debit,2023-10-04,Fuentes Inc,Mobile
+938,184,775.89,Debit,2024-08-12,Collins-Cox,Online
+939,90,647.32,Credit,2025-05-01,Preston-Harper,ATM
+940,72,891.84,Credit,2025-03-21,Jackson-Torres,ATM
+941,40,728.79,Credit,2025-03-06,Walker Ltd,Online
+942,298,581.01,Credit,2023-11-24,"Perez, Martinez and Anderson",Online
+943,283,264.31,Debit,2023-10-06,Vazquez-Bowers,POS
+944,188,395.54,Debit,2023-10-05,Hampton Group,POS
+945,238,503.62,Credit,2023-09-08,Rodriguez Ltd,Mobile
+946,187,504.66,Credit,2024-09-07,"Brown, Wilson and King",POS
+947,264,144.67,Credit,2023-09-26,Contreras-Webster,POS
+948,290,948.97,Credit,2025-04-04,Mora and Sons,Mobile
+949,184,45.22,Debit,2024-11-04,Lopez LLC,POS
+950,33,268.04,Credit,2023-08-28,Thomas Ltd,Online
+951,106,520.3,Debit,2024-03-08,"Bailey, Martin and Mason",Mobile
+952,241,918.31,Credit,2025-02-21,"Allen, Hudson and Garcia",Online
+953,166,107.71,Debit,2024-10-28,Rice Ltd,ATM
+954,297,546.63,Credit,2024-01-01,Jackson-Webster,Mobile
+955,194,368.47,Credit,2023-08-09,"Garcia, Lewis and Gordon",ATM
+956,193,972.81,Credit,2025-02-05,Richardson-Lawrence,Mobile
+957,181,818.15,Debit,2024-07-12,"Rosario, White and Kelly",Mobile
+958,247,887.74,Credit,2024-05-26,Lewis-Perez,POS
+959,226,169.78,Credit,2023-11-01,Martinez-Rodriguez,ATM
+960,109,154.49,Credit,2023-11-19,Farmer-Bush,ATM
+961,61,662.8,Debit,2024-10-11,"Williams, Murphy and Wilson",ATM
+962,59,484.11,Debit,2024-03-13,Burke-Collins,Mobile
+963,108,592.84,Debit,2025-05-20,Perez-Russell,Online
+964,125,47.93,Credit,2025-05-31,Lopez-Jones,POS
+965,263,43.99,Credit,2025-05-20,Crosby-Richardson,Online
+966,86,261.97,Credit,2023-08-15,"Vasquez, Garcia and Kim",Mobile
+967,289,639.43,Debit,2024-12-29,"Miller, Thomas and Morales",Online
+968,111,451.96,Debit,2024-11-06,Figueroa and Sons,Mobile
+969,88,223.27,Debit,2023-09-25,Hester-Morgan,POS
+970,299,821.35,Credit,2024-11-10,Martinez-Massey,ATM
+971,86,725.57,Debit,2025-02-19,Ramirez-Reeves,Mobile
+972,36,233.66,Debit,2024-10-30,"Nelson, Clarke and Schneider",POS
+973,56,21.48,Debit,2024-06-11,Alvarez-Morrison,POS
+974,50,181.54,Credit,2024-06-15,Dixon-Hernandez,Online
+975,48,484.83,Credit,2024-07-24,Martinez Group,Online
+976,221,524.43,Debit,2024-08-26,Fuller and Sons,Online
+977,272,431.81,Debit,2023-08-29,Rojas Inc,Mobile
+978,180,591.1,Credit,2024-08-26,"Johnson, White and Jacobs",Mobile
+979,69,258.25,Credit,2024-04-15,Turner PLC,Online
+980,146,600.3,Debit,2023-10-19,Guerrero PLC,ATM
+981,97,10.44,Credit,2025-03-24,Sparks-Harris,Online
+982,267,12.16,Credit,2025-01-01,Henry-Green,ATM
+983,210,365.46,Credit,2024-04-28,"Payne, Cisneros and Johnson",Mobile
+984,300,257.36,Debit,2024-07-05,Reyes LLC,ATM
+985,142,991.84,Debit,2025-05-29,Ramos-Johnson,POS
+986,212,554.34,Debit,2023-12-21,"Hopkins, Chan and Dyer",POS
+987,190,561.3,Debit,2023-12-11,Jordan-Edwards,ATM
+988,158,579.76,Debit,2024-06-03,Gallagher-Carroll,POS
+989,61,749.08,Debit,2024-08-21,"Spencer, Ryan and Harrison",POS
+990,52,218.39,Debit,2024-10-15,Hunter Group,ATM
+991,282,615.96,Credit,2024-02-26,Garza-Gray,POS
+992,200,964.75,Credit,2025-01-12,Miranda-Mitchell,Online
+993,75,474.31,Debit,2023-09-22,Garza and Sons,Online
+994,33,266.78,Debit,2025-05-17,Bailey-Harmon,Online
+995,20,725.87,Debit,2023-08-26,"Peterson, Davis and Reed",ATM
+996,30,945.99,Credit,2024-05-09,Bell-Stanley,Mobile
+997,225,15.66,Debit,2024-02-14,Wong PLC,POS
+998,18,785.04,Credit,2023-10-10,"Jones, Torres and Morgan",POS
+999,19,362.94,Credit,2023-08-21,"Nguyen, Murray and Boyer",POS
+1000,45,996.83,Debit,2024-10-20,"Valenzuela, Adams and Dominguez",ATM
